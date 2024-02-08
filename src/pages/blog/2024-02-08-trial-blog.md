@@ -13,3 +13,5 @@ tags:
 # H﻿eading
 
 B﻿ody of the blog.
+
+![](/img/flavor_wheel.jpg)
