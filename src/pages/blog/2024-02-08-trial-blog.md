@@ -12,6 +12,6 @@ tags:
 
 # H﻿eading
 
-[B﻿ody of the blog.](opsnetic.com)
+[B﻿ody of the blog.](https://opsnetic.com/)
 
 ![](/img/flavor_wheel.jpg)
