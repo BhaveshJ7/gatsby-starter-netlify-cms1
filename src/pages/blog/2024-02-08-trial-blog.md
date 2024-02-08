@@ -8,6 +8,8 @@ featuredimage: /img/jumbotron.jpg
 tags:
   - example
 ---
+![](/img/blog-index.jpg)
+
 # H﻿eading
 
 B﻿ody of the blog.
