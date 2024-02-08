@@ -4,7 +4,7 @@ title: Trial blog
 date: 2024-02-08T04:12:06.531Z
 description: This is the description.
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/jumbotron.jpg
 tags:
   - example
 ---
